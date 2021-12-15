@@ -169,7 +169,7 @@ function esPrimo(numero) {
       return false
     } else if(numero%i===0){
       return true
-    }
+    }st
   }
 }
 
